@@ -1,4 +1,12 @@
 /node_modules
+api/node_modules
+web/node_modules
+
+# Local ChromaDB data
+api/chroma_db
+
+# Frontend build output
+web/dist
 /api/node_modules
 /web/node_modules
 /api/.env
